@@ -3,18 +3,14 @@ I am a third year student :woman_student: at Royal Holloway University of London
 
 ### 🌱 What I'm Learning
 - Machine Learning (Scikit-Learn, PyTorch and Tensorflow)
-- Software Engineering principles and version control (Git/GitHub)
+- Version control (Git/GitHub)
 
 ### 🔧 Tools & Technologies
-<p>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" alt="PyTorch" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=0JUBXbNc9AaZ&format=png&color=000000" alt="Jupyter" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000" alt="Gitlab" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="GitHub" width="40" height="40"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <!--
 **madeleinehuebner/madeleinehuebner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
