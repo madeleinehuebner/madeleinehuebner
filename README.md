@@ -12,6 +12,7 @@ I am a third year student :woman_student: at Royal Holloway University of London
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 **madeleinehuebner/madeleinehuebner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
