@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a third year student :woman_student: at Royal Holloway University of London, studying towards an MSci in Computer Science :woman_technologist: with a keen interest in Machine Learning.
+I am a final year student :woman_student: at Royal Holloway University of London, studying towards an MSci in Computer Science :woman_technologist: with a keen interest in Machine Learning.
 
 ### 🌱 What I'm Learning
 - Machine Learning (Scikit-Learn, PyTorch and Tensorflow)
