@@ -1,9 +1,9 @@
 ## Hi there 👋
-I am a final year student :woman_student: at Royal Holloway University of London, studying towards an MSci in Computer Science :woman_technologist: with a keen interest in Machine Learning.
+I am a recent graduate :woman_student: from Royal Holloway University of London, with an MSci in Computer Science :woman_technologist: with a keen interest in Data Science.
 
 ### 🌱 What I'm Learning
-- Machine Learning (Scikit-Learn, PyTorch and Tensorflow)
-- Version control (Git/GitHub)
+# - Machine Learning (Scikit-Learn, PyTorch and Tensorflow)
+# - Version control (Git/GitHub)
 
 ### 🔧 Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
