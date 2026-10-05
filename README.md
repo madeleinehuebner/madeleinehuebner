@@ -38,14 +38,6 @@ I enjoy using Python and R to explore data, build predictive models, evaluate pe
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 📌 Featured Projects
-
-- **Machine Learning Model Comparison**  
-  Compared SVM, Random Forest, XGBoost, and ResidualGCN models for ASD neuroimaging classification.
-
-- **Treatment-Response Prediction**  
-  Used R and decision-tree modelling to analyse patient data and predict treatment response.
-
 <!--
 **madeleinehuebner/madeleinehuebner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
